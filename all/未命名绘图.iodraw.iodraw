@@ -46,6 +46,9 @@
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-12" value="Replace Bulb" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="260" y="430" width="120" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="IzAlJMalqbyBSMx71L9v-0" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://www.runoob.com/wp-content/uploads/2016/05/0_Uw0RmvCbgHBkZfi1.png;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="760" y="203.14" width="733" height="260.86" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
